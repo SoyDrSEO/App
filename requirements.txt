@@ -1,0 +1,6 @@
+streamlit
+groq
+requests
+pillow
+tenacity
+openai
